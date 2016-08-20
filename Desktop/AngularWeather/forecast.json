@@ -1,0 +1,41 @@
+[{
+   "coord":{
+      "lon":-78.66,
+      "lat":35.79
+   },
+   "weather":[
+      {
+         "id":803,
+         "main":"Clouds",
+         "description":"broken clouds",
+         "icon":"04d"
+      }
+   ],
+   "base":"cmc stations",
+   "main":{
+      "temp":293.661,
+      "pressure":1029.67,
+      "humidity":61,
+      "temp_min":293.661,
+      "temp_max":293.661,
+      "sea_level":1037.33,
+      "grnd_level":1029.67
+   },
+   "wind":{
+      "speed":2.01,
+      "deg":248.001
+   },
+   "clouds":{
+      "all":64
+   },
+   "dt":1463434848,
+   "sys":{
+      "message":0.0033,
+      "country":"US",
+      "sunrise":1463393252,
+      "sunset":1463444101
+   },
+   "id":4498303,
+   "name":"West Raleigh",
+   "cod":200
+}]
